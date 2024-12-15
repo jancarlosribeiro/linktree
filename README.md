@@ -1,4 +1,4 @@
 # Linktree
 
-Projeto desenvolvido para treinar HTML.
-#html
+Projeto desenvolvido para treinar CSS.
+#CSS
